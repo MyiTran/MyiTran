@@ -28,7 +28,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=java\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
 
 ### 🗄 Database
 
@@ -88,18 +87,6 @@
 ## 🌍 English
 
 * TOEIC: **650 (Listening & Reading)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MyiTran&show_icons=true&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyiTran&layout=compact&theme=github_dark"/>
-</p>
 
 ---
 
