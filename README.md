@@ -45,6 +45,17 @@
 
 ## 🚀 Academic Projects
 
+### 🤖 AI Code Review Github App (2026)
+
+**Role: Full-stack Developer**
+
+* Developed an automated code review service integrating Google Gemini API via Faraday
+* Implemented GitHub App authentication and webhook event handling for real-time pull request analysis
+* Designed background job processing using Sidekiq with robust error handling and retry mechanisms
+* Applied idempotency and unique database indexing to prevent race conditions and optimize token usage
+
+---
+
 ### 🏠 Real Estate Management Web (2025)
 
 **Role: Backend Developer**
