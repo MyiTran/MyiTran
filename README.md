@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Third-year **Data Engineering student at HCMUTE**
-* 💡 Strong foundation in **programming & database management**
-* ⚡ Fast learner with strong problem-solving mindset
-* 🎯 Interested in building **efficient data systems**
-* 🧠 Focused on applying **SQL, Java, and C#** to real-world projects
+* 🎓 Final-year **Data Engineering student at HCMUTE**
+* 💡 Focused on backend development, databases, and clean architecture
+* ⚡ Fast learner with a strong problem-solving mindset
+* 🎯 Passionate about building reliable web services and efficient data systems
+* 🧠 Specializing in **Ruby, Ruby on Rails, and SQL** for real-world projects
 
 ---
 
